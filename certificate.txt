@@ -1,0 +1,85 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" type="png" href="op1.png">
+	
+<style>
+a:link    {color:blue; background-color:transparent; text-decoration:none}
+a:visited {color:blue; background-color:transparent; text-decoration:none}
+a:hover {color:blue; background-color:transparent; text-decoration:underline}
+p.big {line-height: 1.5;}
+</style>
+
+<title>COURSES</title>
+
+<link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+<div id="full">
+<div id="header">
+<h1>Sevcan Kapkara</h1>
+</div>
+<hr>
+<center>
+<ul id="menu">
+  <li><a href="https://sevcankapkara.github.io"><b>HOME</b></a></li>
+  <li><a href="cv.html"><b>CURRICULUM VITAE</b></a></li>
+  <li><a href="research.html"><b>PROJECT</b></a></li>
+  <li><a href="courses.html"><b>COURSES</b></a></li> 
+
+  <li><a href="hobbies.html"><b>HOBBIES</b></a></li>
+  
+</ul> 
+<div id="nav">
+<br>
+<center>
+<img src="op.jpg" width="70%" height="40%">
+</center>
+<br>
+<hr align="left" >
+<div style="width:80%">
+<h3 align="left" width="80%">CONTACT</h3>
+<p class ="big" align="left" >	
+PhD, Economics, </br>
+Anadolu Üniversitesi, </br>
+Eskiþehir, Türkiye</p>
+<p class ="big" align="left">E-mail: <a href="mailto:skapkara@anadolu.edu.tr">skapkara@anadolu.edu.tr,</a>  
+&nbsp; &nbsp;&nbsp; &nbsp; <a href="mailto:sevcankapkara@gmail.com">sevcankapkara@gmail.com</a>
+</p>
+</div>
+</div>
+
+<div id="section">
+<h2 align="left">Courses</h2>
+<p align="justify">
+
+ <ul>
+    <li>Linear Time Series Econometrics I and II </li>
+	 </ul>
+<ul>
+	 <li> Nonlinear Time Series Econometrics</li>
+ </ul>
+
+ <ul>
+   <li> Panel Data Analysis I and II</li> 
+ </ul> 
+	
+  
+	 
+<p>
+</p>
+</div>
+
+<div id="quote"><hr>
+<q>“-----------------.” </q> &#8210; Anonymous.
+<hr>
+</div>
+<div id="footer">
+
+</div>
+</div>
+</body>
+</html>
+© 2018 GitHub, Inc.
