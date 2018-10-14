@@ -19,7 +19,7 @@ p.big {line-height: 1.5;}
 <body>
 <div id="full">
 <div id="header">
-<h1>Sevcan Kapkara</h1>
+<h1>NA</h1>
 </div>
 <hr>
 <center>
@@ -43,8 +43,8 @@ p.big {line-height: 1.5;}
 <h3 align="left" width="80%">CONTACT</h3>
 <p class ="big" align="left" >	
 PhD, Economics, </br>
-Anadolu Üniversitesi, </br>
-Eskişehir, Türkiye</p>
+, </br>
+</p>
 <p class ="big" align="left">E-mail: <a href="mailto:skapkara@anadolu.edu.tr">skapkara@anadolu.edu.tr,</a>  
 &nbsp; &nbsp;&nbsp; &nbsp; <a href="mailto:sevcankapkara@gmail.com">sevcankapkara@gmail.com</a>
 </p>
