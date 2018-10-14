@@ -24,7 +24,7 @@ p.big {line-height: 1.5;}
 <hr>
 <center>
 <ul id="menu">
-  <li><a href="https://sevcankapkara.github.io"><b>HOME</b></a></li>
+  <li><a href="https://na.github.io"><b>HOME</b></a></li>
   <li><a href="cv.html"><b>CURRICULUM VITAE</b></a></li>
   <li><a href="research.html"><b>PROJECT</b></a></li>
   <li><a href="courses.html"><b>COURSES</b></a></li> 
@@ -45,8 +45,8 @@ p.big {line-height: 1.5;}
 PhD, Economics, </br>
 , </br>
 </p>
-<p class ="big" align="left">E-mail: <a href="mailto:skapkara@anadolu.edu.tr">skapkara@anadolu.edu.tr,</a>  
-&nbsp; &nbsp;&nbsp; &nbsp; <a href="mailto:sevcankapkara@gmail.com">sevcankapkara@gmail.com</a>
+<p class ="big" align="left">E-mail: <a href="mailto:">,</a>  
+&nbsp; &nbsp;&nbsp; &nbsp; <a href="mailto:"></a>
 </p>
 </div>
 </div>
